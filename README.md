@@ -2,6 +2,7 @@ Picture-in-Picture App
 
 This is a small JavaScript application that allows users to display a selected media stream in picture-in-picture mode.
 
+
 How to Use
 
     Open the index.html file in your web browser.
